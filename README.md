@@ -25,9 +25,9 @@ Para poder utilizar esta herramienta, se necesitan los siguientes requisitos:
 
 Notas importantes
 
-    Esta herramienta está diseñada para funcionar con cuentas y proyectos de Vimeo válidos. Asegúrate de tener los permisos adecuados para acceder a la información de los videos en el proyecto proporcionado.
+Esta herramienta está diseñada para funcionar con cuentas y proyectos de Vimeo válidos. Asegúrate de tener los permisos adecuados para acceder a la información de los videos en el proyecto proporcionado.
 
-    Si encuentras algún problema o error durante el uso de la herramienta, por favor, verifica que los requisitos se cumplan correctamente y que los valores de configuración sean válidos.
+Si encuentras algún problema o error durante el uso de la herramienta, por favor, verifica que los requisitos se cumplan correctamente y que los valores de configuración sean válidos.
 
-    Para más información sobre el API de Vimeo y las funcionalidades que ofrece, consulta la documentación oficial de Vimeo.
+Para más información sobre el API de Vimeo y las funcionalidades que ofrece, consulta la documentación oficial de Vimeo.
 
