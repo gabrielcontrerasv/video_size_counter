@@ -1,0 +1,14 @@
+{
+  "name": "vimeo_size",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "dotenv": "^16.3.1"
+  }
+}
