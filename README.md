@@ -23,7 +23,7 @@ Para poder utilizar esta herramienta, se necesitan los siguientes requisitos:
 3. una vez ejecutadas las depencias ejecuta yarn dev o npm run dev para realizar la ejecucion.
 4. Finalmente vas a obtener un resultado en la consola con los valores convertidos a bytes,Kilobytes,Megabytes y Gigabytes
 
-Notas importantes
+## Notas importantes
 
 Esta herramienta está diseñada para funcionar con cuentas y proyectos de Vimeo válidos. Asegúrate de tener los permisos adecuados para acceder a la información de los videos en el proyecto proporcionado.
 
