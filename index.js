@@ -1,11 +1,10 @@
 import axios from "axios";
-import dotenv from "dotenv";
+import { config } from "./config.js";
 
-dotenv.config();
-const accessToken = process.env.ACCESS_TOKEN;
+const accessToken = config.ACCESS_TOKEN;
 
-const project_id = process.env.PROJECT_ID;
-const user_id = process.env.USER_ID;
+const project_id = config.PROJECT_ID;
+const user_id = config.USER_ID;
 
 async function getFolderWeight(project_id) {
   try {
